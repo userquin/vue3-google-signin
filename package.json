@@ -1,5 +1,6 @@
 {
   "name": "vue3-google-signin",
+  "packageManager": "pnpm@7.3.0",
   "version": "0.0.0",
   "description": "Google Sign In for Vue3 with Google Identity Service",
   "license": "MIT",
